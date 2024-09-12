@@ -1,15 +1,12 @@
 # thangtumlum
-<!DOCTYPE html>
+
 <html>
 
 <head>
     <meta charset="utf-8">
-    <title>My First Web</title>
-    <link rel="shorcut icon" href="?nh luu.jpg" </head>
+    <title>web của bố ok</title>
 
 <body>
-    <h1>Bài 1</h1>
-    Trang wed d?u tiên c?a tôi.
 
     <video height="600px" width="300px" align="center" src="nammuacot.mp4" .type="video/mp4" autoplay controls>
             <h1>Bài 17</h1>
